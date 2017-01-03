@@ -1,0 +1,45 @@
+                    window.setTimeou, 10);
+
+        </div>
+        
+        <!--
+        <canvas id="canvas" with="250" height="250">
+            Different browser.
+        </canvas>
+        
+        <script>
+            var canvas = document.getElementById("canvas"),
+                ctx = canvas.getContext("2d");
+            
+            ctx.strokeStyle="red";
+            ctx.strokeRect(20,20,150,100);
+            
+            function transform() {
+                
+            }
+        </script>
+        -->
+        
+                    
+            /*
+            #slideshow:hover {
+                transform: translate(100px,0);
+            }
+            
+            @keyframes slidein {
+                from {
+                    left: 0;
+                }
+
+                to {
+                    left: -100%;
+                }
+            }
+            */
+            
+                        //this.style.animationName = "slidein";
+                //setInterval(wait, 40);
+                //clearInterval(100);
+                //thing = "translate(" + slideWidth + ", 0)";
+                //slideshow.style.transform = "translate(-550px,0)";
+                //this.animationPlayState = "paused";
