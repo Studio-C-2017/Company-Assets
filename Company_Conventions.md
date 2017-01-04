@@ -1,5 +1,5 @@
 # The Official Studio C Style Guide
-[XKCD comic](https://imgs.xkcd.com/comics/tags.png "<A>: Like </a>this.&nbsp;")
+![XKCD comic](https://imgs.xkcd.com/comics/tags.png "<A>: Like </a>this.&nbsp;")
 
 ## HTML
 - Tabs should be four spaces wide, adjust your chosen text editor if it is 2, 8, or any other number
