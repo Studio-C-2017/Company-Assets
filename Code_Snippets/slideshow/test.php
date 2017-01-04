@@ -3,9 +3,11 @@
 <link rel="stylesheet" type="text/css" href="slideshow.css"> 
 <?php include('slideshow-begin.php'); ?>
 <?php include('slideshow.php');
-    create_slide('example.com', 'http://img02.deviantart.net/708c/i/2016/124/f/8/guess_what_by_musicalmutt2-da18o3m.png', 'Stuff', 'Thing');
-    create_slide('example.com', 'http://img12.deviantart.net/c766/i/2016/027/b/a/boys_of_shelter_22_by_musicalmutt2-d9pjo6j.png', 'Stuff', 'Thing');
-	create_slide('example.com', 'http://pre04.deviantart.net/71fa/th/pre/f/2016/124/0/f/at__playtime_by_musicalmutt2-da1a2e7.png', 'Stuff', 'Another Thing');
+	create_slide('example.com', 'http://static.boredpanda.com/blog/wp-content/uploads/2014/03/amazing-fox-photos-3.jpg', 'Stuff', 'Another Thing');
+    create_slide('example.com', 'http://static.boredpanda.com/blog/wp-content/uploads/2016/05/cute-baby-foxes-cubs-17-574436be67482__880.jpg', 'Stuff', 'Another Thing');
+    create_slide('example.com', 'http://www.demilked.com/magazine/wp-content/uploads/2014/04/beautiful-foxes-wildlife-photography-9.jpg', 'Stuff', 'Another Thing');
+    create_slide('example.com', 'https://s-media-cache-ak0.pinimg.com/originals/a1/b4/91/a1b491dca722c54ddf63d9bbabc43ed4.jpg', 'Stuff', 'Another Thing');
+
 ?>
 <?php include('slideshow-end.php'); ?>
 <script src="slideshow-script.js"></script>
