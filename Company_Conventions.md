@@ -17,5 +17,5 @@
 
 # File System
 - Ideally, all non-HTML files will go in a directory named "assets" (or "_assets") that holds subdirectories for images (img), JavaScript files (js), and CSS files (css)
-- Do not use spaces in file names, hyphens are preferred although underscores can also be used
+- Do not use spaces in file names, hyphens are preferred, although underscores can also be used
 - Add .DS_Store to the .gitignore file
