@@ -20,6 +20,10 @@
 - Use camelCase format to name variables, do not use underscores
 - Verify code with JSLint
 
+## PHP
+- Use single quotes to denote PHP strings
+- Use underscores to separate words in variable names
+
 ## File System
 - Ideally, all non-HTML files will go in a directory named "assets" (or "_assets") that holds subdirectories for images (img), JavaScript files (js), and CSS files (css)
 - Do not use spaces in file names, hyphens are preferred, although underscores can also be used
