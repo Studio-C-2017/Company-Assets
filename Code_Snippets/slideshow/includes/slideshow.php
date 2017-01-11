@@ -10,11 +10,10 @@
 
             <div class="slide-info">
                 <a href="<?php echo $current_slide->url; ?>">
-                    <h2 class="slide-title">
-                        <?php echo $current_slide->name; ?>
-                    </h2>
+                    <h2 class="slide-title"><?php echo $current_slide->name; ?></h2>
                     <span class="slide-description">
                         <?php echo $current_slide->description; ?>
+
                     </span>
                 </a>
             </div> <!-- END slide-info -->
