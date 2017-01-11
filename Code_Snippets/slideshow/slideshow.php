@@ -1,8 +1,6 @@
-
-
 <div id='slideshow'>
-    <div id='carousel'>
-
+    <div id='carousel' style="left: 0">
+    <?php $number_of_slides = 0; ?>
     <?php foreach ($slides_info as $current_slide): ?>
         <div class="slide">
 
@@ -22,20 +20,16 @@
             </div> <!-- END slide-info -->
 
         </div> <!-- END slide -->
+        <?php $number_of_slides++; ?>
     <?php endforeach; ?>
-
-
     </div> <!--END carousel-->
 
     <div id="slide-icon-container">
-        <?php
-            $number_of_slides = 0;
-            while ($number_of_slides > 0):
-        ?>
-                <button class="slide-icon"></button>
-                <?php $number_of_slides--; ?>
+        <?php while ($number_of_slides > 0): ?>
+            <button class="slide-icon"></button>
+            <?php $number_of_slides--; ?>
         <?php endwhile; ?>
-    </div> <!-- slide-icon-container -->
+    </div> <!-- END slide-icon-container -->
 
     <button id="left-arrow"></button>
     <button id="right-arrow"></button>

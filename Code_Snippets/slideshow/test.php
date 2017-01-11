@@ -1,7 +1,7 @@
 
 
 <link rel="stylesheet" type="text/css" href="slideshow.css">
-<?php include('slideshow-begin.php'); ?>
+<?php include('slideshow-init.php'); ?>
 <?php
 	create_slide('example.com', 'http://static.boredpanda.com/blog/wp-content/uploads/2014/03/amazing-fox-photos-3.jpg', 'Stuff', 'Another Thing');
     create_slide('example.com', 'http://static.boredpanda.com/blog/wp-content/uploads/2016/05/cute-baby-foxes-cubs-17-574436be67482__880.jpg', 'Stuff', 'Another Thing');
