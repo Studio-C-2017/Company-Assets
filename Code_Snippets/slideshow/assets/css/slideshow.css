@@ -71,6 +71,7 @@ span.slide-description {
     border: 0;
 
 }
+
 #left-arrow {
     background-image: url(../img/slideshow-icons/arrow-right.png);
     float: left;
@@ -104,11 +105,9 @@ span.slide-description {
     padding: 0;
     background: transparent url(../img/slideshow-icons/slide-icon_unselected.png) center/75% no-repeat;
     border: none;
+	display: inline-block;
 }
 
-.slide-icon:focus {
-    outline: none;
-}
 /* END slideshow */
 
 /* BEGIN item-list */
