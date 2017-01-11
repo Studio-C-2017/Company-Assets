@@ -25,11 +25,11 @@
 
     <div id="slide-icon-container">
         <?php while ($number_of_slides > 0): ?>
-            <button class="slide-icon"></button>
+            <div class="slide-icon"></div>
             <?php $number_of_slides--; ?>
         <?php endwhile; ?>
     </div> <!-- END slide-icon-container -->
 
-    <button id="left-arrow"></button>
-    <button id="right-arrow"></button>
+    <div id="left-arrow"></div>
+    <div id="right-arrow"></div>
 </div> <!-- END slideshow -->
