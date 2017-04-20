@@ -1,7 +1,7 @@
 # The Official Studio C Style Guide
 ![XKCD comic](https://imgs.xkcd.com/comics/tags.png "<A>: Like </a>this.&nbsp;")
 
-"[Tags](https://xkcd.com/1144/)" by Randall Monroe is licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.5/)
+"[Tags](https://xkcd.com/1144/)" by Randall Monroe is licensed under [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
 
 ## HTML
 - Tabs should be four spaces wide, adjust your chosen text editor if it is 2, 8, or any other number
